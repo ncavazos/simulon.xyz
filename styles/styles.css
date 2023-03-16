@@ -15,7 +15,12 @@ body {
 	text-align: center;
 	margin: 0 auto;
 }
-./code {
+.code {
 	.75em;
 	border: 1px solid black;
+}
+.basic {
+	width: 50%;
+	heigh:50%;
+	margin: 1em;
 }
