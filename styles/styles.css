@@ -21,6 +21,14 @@ body {
 }
 .basic {
 	width: 50%;
-	heigh:50%;
+	height:50%;
 	margin: 1em;
+}
+.oscillators {
+	width: 50%;
+    height:50%;
+}
+.osc_container {
+	display: grid;
+	align-items: center;
 }
