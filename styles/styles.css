@@ -14,3 +14,6 @@ li {
 body {
 	text-align: center;
 }
+./code {
+	.75em;
+}
