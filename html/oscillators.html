@@ -16,9 +16,9 @@
 			<ul>Create abstract and repeatable shapes in a way that is quite different than you would use the normal shape function</ul>
 		</li>
 		<h2>"Complex" Oscillators</h2>
-		<p>In audio synthesis the key to generating interesting sounds is by taking complex soundwave forms and using those to create music. The very same thing can be said of video synthesis, both analog and digital. You can get complex oscillators by a variety of different methods. You can either build up a complex pattern underneath a set of "masking" oscillators and then mult the final output with your oscillators:
-			<img src="../images/complex1.png" /></p> 
-			<p>osc(100,.1,3).modulate(shape(99,5,20).modulateRotation(5)).kaleid(6).color(1,0,.5).diff(noise(35,1).posterize().modulate(osc().kaleid(3))).out()</p>
+		<p>In audio synthesis the key to generating interesting sounds is by taking complex soundwave forms and using those to create music. The very same thing can be said of video synthesis, both analog and digital. You can get complex oscillators by a variety of different methods. You can either build up a complex pattern underneath a set of "masking" oscillators and then mult the final output with your oscillators:</p> 
+			<img src="../images/complex1.png" />
+			<p class="code">osc(100,.1,3).modulate(shape(99,5,20).modulateRotation(5)).kaleid(6).color(1,0,.5).diff(noise(35,1).posterize().modulate(osc().kaleid(3))).out()</p>
 
 	</body>
 </html>
