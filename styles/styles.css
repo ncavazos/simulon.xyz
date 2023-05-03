@@ -19,9 +19,7 @@ body {
 	.75em;
 	border: 1px solid black;
 }
-.basic {
-	width: 25%;
-	height:25%;
+.osc {
 	display: block;
 	margin: 0 auto;
 }
