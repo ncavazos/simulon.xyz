@@ -30,35 +30,35 @@ body {
 }
 .gradient {
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .osc {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .shape {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .noise {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .voronoi {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .rings {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
 .color {
 	padding: 20px 20px 20px 20px;
 	display: block;
-	margin: 10 auto;
+	margin: 10px auto;
 }
