@@ -19,10 +19,6 @@ body {
 	.75em;
 	border: 1px solid black;
 }
-.osc {
-	display: block;
-	margin: 0 auto;
-}
 .oscillators {
 	width: 25%;
     height:25%;
@@ -36,23 +32,33 @@ body {
 	display: block;
 	margin: 0 auto;
 }
+.osc {
+	padding: 20px 20px 20px 20px;
+	display: block;
+	margin: 0 auto;
+}
 .shape {
+	padding: 20px 20px 20px 20px;
 	display: block;
 	margin: 0 auto;
 }
 .noise {
+	padding: 20px 20px 20px 20px;
 	display: block;
 	margin: 0 auto;
 }
 .voronoi {
+	padding: 20px 20px 20px 20px;
 	display: block;
 	margin: 0 auto;
 }
 .rings {
+	padding: 20px 20px 20px 20px;
 	display: block;
 	margin: 0 auto;
 }
 .color {
+	padding: 20px 20px 20px 20px;
 	display: block;
 	margin: 0 auto;
 }
