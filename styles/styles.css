@@ -33,3 +33,8 @@ body {
 	grid-template-colums:20%, 20%, 20%;
 	align-items: center;
 }
+.gradient {
+	display: grid;
+	grid-template-colums:20%, 20%, 20%;
+	align-items: center;
+}
